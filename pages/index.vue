@@ -1,6 +1,5 @@
 <template>
   <div id="home">
-    <Legend />
     <div id="geocoder" class="geocoder w-100 p-2"></div>
     <div id="map"></div>
   </div>
