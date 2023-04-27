@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Cattedrale\nCentro Storico",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.373723599683814,
+          40.62765990431026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Puolo",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.356283143818189,
+          40.626441783449565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Priora",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.366674026481007,
+          40.61844345354845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Santa Lucia",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.377615664062603,
+          40.62056157076742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Via degli aranci",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.38191627055059,
+          40.625368925525635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marina Grande",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.366612443213427,
+          40.626690659797134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Marano",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.385662985995538,
+          40.63024715869372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Casarlano",
+        "icon": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.393966266011319,
+          40.61316908864441
+        ]
+      }
+    }
+  ]
+}
